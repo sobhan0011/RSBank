@@ -1,0 +1,117 @@
+#signUplogIn
+{
+    -fx-background-image: url("/sample/data/image/rose2.jpg");
+}
+
+.root
+{
+    -fx-background-color: #262d33;
+}
+
+.label
+{
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+}
+
+#logIn
+{
+    -fx-background-color: f5bc00;
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-text-fill: black;
+    -fx-font-family: "JetBrains Mono ExtraBold";
+    -fx-font-size: 20px;
+}
+
+#logIn:hover
+{
+    -fx-background-color: ffd650;
+}
+
+#signUp
+{
+        -fx-background-color: white;
+        -fx-background-radius: 6, 5;
+        -fx-background-insets: 0, 1;
+        -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+        -fx-text-fill: black;
+        -fx-font-family: "JetBrains Mono ExtraBold";
+        -fx-font-size: 20px;
+}
+
+#signUp:hover
+{
+    -fx-background-color: #ebe7e7;
+}
+
+#lilLabel
+{
+    -fx-font-family: Leelawadee;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+
+#lilButtonLogIn
+{
+    -fx-background-color: f5bc00;
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-text-fill: black;
+    -fx-font-family: "JetBrains Mono ExtraBold";
+    -fx-font-size: 15px;
+}
+
+#lilButtonLogIn:hover
+{
+    -fx-background-color: ffd650;
+}
+
+#lilButtonsignUp
+{
+    -fx-background-color: white;
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-text-fill: black;
+    -fx-font-family: "JetBrains Mono ExtraBold";
+    -fx-font-size: 15px;
+}
+
+#lilButtonsignUp:hover
+{
+    -fx-background-color: #ebe7e7;
+}
+
+#gridPane
+{
+    -fx-background-color: #2f383f;
+    -fx-background-radius: 10px;
+}
+
+#bigLabel
+{
+    -fx-text-fill: white;
+    -fx-font-family: Inconsolata;
+    -fx-font-size: 25px;
+}
+
+#transactionLabel
+{
+    -fx-background-color: #2f383f;
+    -fx-font-size: 15px;
+    -fx-text-fill: f5bc00;
+}
+
+
+#favorites
+{
+    -fx-background-color: #262d33;
+    -fx-font-family: "JetBrains Mono ExtraBold";
+    -fx-text-fill: #f5bc00;
+    -fx-font-size: 7px;
+}
+
+.choice-box .label {
+    -fx-text-fill: #f5bc00;
+    -fx-font-size: 12px;
+}
