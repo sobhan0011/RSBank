@@ -1,0 +1,19 @@
+!!!
+"mamad" "namad" "0925589152" "337459az" "sda@gasd.com" "09214523938"
+"CURRENT" "das" "12345678" "12422.5" "19558" "Fri Jul 02 02:13:29 IRDT 2021" "Favorites: " 
+"CURRENT" "dasd" "132123123" "515.5" "5052" "Fri Jul 02 02:13:45 IRDT 2021" "Favorites: " 
+"CURRENT" "sdfdsf" "231321323" "737.0" "14445" "Fri Jul 02 02:25:27 IRDT 2021" "Favorites: " 
+"CURRENT" "dasda" "1231231233" "123.0" "1447" "Fri Jul 02 14:11:49 IRDT 2021" "Favorites: " 
+"CURRENT" "qwewqe" "1231312312321" "41.0" "2040" "Fri Jul 02 14:59:27 IRDT 2021" "Favorites: " 
+"CURRENT" "asdasd" "12312312312" "123.0" "9900" "Fri Jul 02 15:02:43 IRDT 2021" "Favorites: " 
+"CURRENT" "asdascas" "1241421241241" "1.0" "10276" "Fri Jul 02 15:02:51 IRDT 2021" "Favorites: " 
+"CURRENT" "dasasd" "21313412" "213.0" "13433" "Fri Jul 02 15:30:03 IRDT 2021" "Favorites: " 
+"SAVING" "dasdaads" "1231231234" "123.0" "2518" "Wed Jul 07 20:28:11 IRDT 2021" "Favorites: " 
+!!!
+"adsa" "qwewe" "1321232131" "1231231231" "sdasdas@dasd.com" "21312321311"
+"CURRENT" "dasd" "123123123" "123.0" "8522" "Fri Jul 02 14:28:15 IRDT 2021" "Favorites: " "13412" "11263" "adcz" "13412" "10276" "asx" 
+"CURRENT" "dadwe" "12312441" "213.0" "8349" "Fri Jul 02 14:28:23 IRDT 2021" "Favorites: " 
+!!!
+"rozhan" "boroumand" "1111111111" "12345678" "rozhan@yahpp.com" "09157897515"
+"CURRENT" "rozhan" "12345678" "100.0" "13412" "Sat Jul 03 12:01:14 IRDT 2021" "13412 deposited 10.0 on Tue Jul 06 11:39:39 IRDT 2021" "Favorites: " "13412" "11263" "adcz" "13412" "10276" "asx" 
+"SAVING" "rozhhhh" "12345678" "50.7" "11263" "Sat Jul 03 12:08:52 IRDT 2021" "11263 withdrew 70.0 on Tue Jul 06 11:35:04 IRDT 2021" "11263 deposited 15.0 on Tue Jul 06 11:35:12 IRDT 2021" "Favorites: " 
