@@ -1,2 +1,0 @@
-# RSBank
-A Bank Project
