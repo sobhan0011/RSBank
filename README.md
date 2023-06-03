@@ -1,2 +1,3 @@
 # RSBank
-A Bank Project using JavaFX. 
+A bank project using javaFX. 
+- Multithread server, socket programming. 
